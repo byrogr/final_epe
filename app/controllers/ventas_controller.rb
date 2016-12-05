@@ -1,7 +1,7 @@
 class VentasController < ApplicationController
   def index
     rutaData = "public/data/referidos.txt"
-    dni = "45645710"
+    dni = params[:dni]
     $data = cargarData( rutaData )
     insercionDirecta
     ind = buscar(dni)

@@ -22,7 +22,12 @@ class ProductosController < ApplicationController
     end
   end
 
-  def delete(pos)
+  def delete
+    pos = params[:pos]
+    rutaData = "public/data/productos.txt"
+    datos = cargarData( rutaData )
+    lista = crearLista( datos )
+    eliminarElementoPosicion(lista, pos)
   end
 
   def cargarData( archivo )

@@ -12,16 +12,22 @@ class ClientesController < ApplicationController
     lista = crearLista( datos )
     if request.post? then
       codigo = params[:codigo]
-      nombre = params[:descripcion]
-      precio = params[:precio]
-      stock = params[:stock]
-      elemento = codigo.to_s + "," + nombre.to_s + "," + precio.to_s + "," + stock.to_s
+      nombre = params[:nombre]
+      email = params[:email]
+      direccion = params[:direccion]
+      dni = params[:dni]
+      elemento = codigo.to_s + "," + nombre.to_s + "," + email.to_s + "," + direccion.to_s + "," + dni.to_s
       agregarData(rutaData, elemento)
       insertarListaFin(lista, elemento)
     end
   end
 
-  def delete(pos)
+  def delete
+    pos = params[:pos]
+    rutaData = "public/data/clientes.txt"
+    datos = cargarData( rutaData )
+    lista = crearLista( datos )
+    lista = eliminarElementoPosicion(lista, pos)
   end
 
   def cargarData( archivo )
