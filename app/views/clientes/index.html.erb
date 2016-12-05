@@ -5,7 +5,7 @@
             <div class="panel-heading">
                 Listado de clientes
                 <div class="pull-right">
-                	<button class="btn btn-primary btn-xs">
+                	<button class="btn btn-primary btn-xs" data-toggle="modal" data-target="#myModal">
                 		<i class="fa fa-plus"></i> Nuevo cliente
                 	</button>
                 </div>
@@ -17,34 +17,22 @@
                         <thead>
                             <tr>
                                 <th>#</th>
-                                <th>Nombres</th>
-                                <th>Apellido Materno</th>
-                                <th>Apellido Paterno</th>
+                                <th>Nombre Completo</th>
+                                <th>Email</th>
+                                <th>Direcci&oacute;n</th>
                                 <th>DNI</th>
                             </tr>
                         </thead>
                         <tbody>
+                            <% for i in 0...@clientes.size %>
                             <tr>
-                                <td>1</td>
-                                <td>Mark</td>
-                                <td>Otto</td>
-                                <td>@mdo</td>
-                                <td>45645710</td>
+                                <td><%= @clientes[i][0] %></td>
+                                <td><%= @clientes[i][1] %></td>
+                                <td><%= @clientes[i][2] %></td>
+                                <td><%= @clientes[i][3] %></td>
+                                <td><%= @clientes[i][4] %></td>
                             </tr>
-                            <tr>
-                                <td>2</td>
-                                <td>Jacob</td>
-                                <td>Thornton</td>
-                                <td>@fat</td>
-                                <td>45645710</td>
-                            </tr>
-                            <tr>
-                                <td>3</td>
-                                <td>Larry</td>
-                                <td>the Bird</td>
-                                <td>@twitter</td>
-                                <td>45645710</td>
-                            </tr>
+                            <% end %>
                         </tbody>
                     </table>
                 </div>
@@ -52,5 +40,6 @@
             </div>
             <!-- /.panel-body -->
         </div>
+        <%= render 'clientes/forms/form' %>
 	</div>
 </div>

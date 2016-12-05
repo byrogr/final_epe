@@ -1,6 +1,5 @@
 class ProductosController < ApplicationController
 
-
   def index
     rutaData = "public/data/productos.txt"
     datos = cargarData( rutaData )
@@ -21,6 +20,9 @@ class ProductosController < ApplicationController
       agregarData(rutaData, elemento)
       insertarListaFin(lista, elemento)
     end
+  end
+
+  def delete(pos)
   end
 
   def cargarData( archivo )
@@ -63,6 +65,32 @@ class ProductosController < ApplicationController
     return lista
   end
 
+  def eliminarElementoPosicion(lista, pos)
+    nodo = lista
+    if lista == nil
+      return lista
+    else
+      if pos == 1
+        lista = lista[1]
+      else
+        anterior = lista
+        nodo = nodo[1]
+        cont = 2
+        while nodo != nil
+          if(cont==pos)
+            anterior[1] = nodo[1]
+            break
+          else
+            anterior = nodo
+            nodo=nodo[1]
+            cont = cont + 1
+          end
+        end	
+      end
+    end
+    return lista 
+  end
+
   def recorrerLista(lista)
   	nodo = lista
     campos = Array.new
@@ -73,4 +101,4 @@ class ProductosController < ApplicationController
     end
     return campos
   end
-end
+end 

@@ -1,0 +1,50 @@
+101, Alvaro Segundo Abanto, Aegun@gmail.com, Av. Arequipa 3322-San isidro, 40646225
+102, Christian Humberto Gutiérrez, Humber@gmail.com, Av. Larco 231-Miraflores, 44642799
+103, Yobana Abrigo Chahua, Yoba@gmail.com ,Av. Brasil 1356-Lima, 46108850
+104, Yudit Yuzeli Acero, YuditYu@hotmail.com, Calle Los Arces 233-Lima, 46941890
+105, Hernan Acero Ancco, HernanAcc@gmail.com, Jiron Wilca 231-Cercado, 41971896
+106, Barbara Hermelinda Arce, barbie@gmail.com, Av. España 502-Lima, 00440582
+107, Edelmira Aycaya Torres, Edelcaya@hotmail.com, Av. Venezuela 331 - Lima, 00796666
+108, Betty Alvarez Carrera, Bettyrrera@hotmail.com, Av. Capriles 321-Lince, 40599153
+109, Jose Gonzalo Cardenas, JoseGonza@Gmail.com, Av. Caseres  665-Lima, 41571144
+110, Eduarda Tarqui Justina, julianaparis@hotmail.com, Av. Colonial 419 Lima, 00490795
+111, Julio Rosas Huaranga, juanspider39@hotmail.com, Jr. Camaná 370-Cercado, 10286764
+112, Angel Neyra Olaychea, domini26@latinmail.com, Jr. Camaná Nº 564-Cercado de Lima, 08655412
+113, Manuela Paz Uchoa, mpulido@latinmail.com, Av. Domingo Orué 565-Suquillo, 03083915
+114, Efrain Salcedo Huayhuameza, efrasalce@terra.com,  Av. Angamos Oesta 1290,,02846601
+115, Dina Calderon Junes, dinacalder@terra.com, Av. Elmer Faucett 1045-Callao, 08885765
+116, Manuel Botonero Avila, manu@gmail.com, Av. Argentina 3304-Callao, 06244315
+117, Homero Quispe Acuña, homesimp@gmail.com, Av. La Marina 345-La Perla, 40558848 
+118, Dorita Chavez Yomona, Doritayomona@gmail.com, Av. José Gálvez 420-La Perla, 09653655
+119, Mery Lora Veramendo, merylora@gmail.com, Av. Venezuela 340-La Perla, 42346775
+120, Carolina Montoya Chalco, carolinamontoya@gmail.com, Av. La Marina 341-La perla, 40662037
+121, Daniel Acevedo Jhong, danicevedo@gmail.com, Av.Guardia Civil 121-Chorrillos, 11054879  
+122, Miguelvicente Agurto Rondoy, miquiagurto@gmail.com, Av. Buenos Aires 334-Chorrillos, 15487925  
+123, Christian Nelson Algalá Negrón, cristianalo@gmail.com, Av. San Martin 123-Chorrilos, 09254876
+124, Jorge Alosilla Velazco Vera, jorgealazco@gmail.com, Los Proceres 135-Chorrillos, 40125879
+125, Victor Alva Campos, victoralva@gmail.com, Av. Guardia Peruana 234-Chorrillos, 44125782
+126, Javier Arevalo Lopez, javichoarevalo@gmail.com, Av. Guardia Civil 432-Chorrillos, 47513258
+127, Rosario Arias Hernandez, rosaarias@hotmail.com, Calle Murillo Cuadra 343-Chorrillos, 46105789
+128, Efraín Arroyo Ramírez, efrainrroyo@terra.com.pe, Av. Cordillera La Viuda 432-Chorrillos, 45101245
+129, Marco Tulio Alocen Barrera, marcotulio@terra.com, Av. Tupac Amaru 213-Chorrillos, 03354879
+130, Cesar Baiocchi Ureta, baiocchi@yahoo.es, Cordillera Occidental 332-Chorrillos, 02578945
+131, Isela Flor Baylón Ureta, flor@icloud.com, Av. 6-Chorrillos 142, 01245789
+132, Leoncia Bedoya Castillo, leona@gmail.com, Calle Progreso 231-Chorrillos, 002548789
+133, Luz Marina Bedregal Canales, luma@terra.com, Av. Los Algarrobos 213-Chorrillos, 09578456
+134, Ramiro Alberto Bejar Torres, ramibejar@terra.com, Av. Benavides 231-Miraflores, 02548795
+135, Javier Benavides Espejo, javanides@gmail.com, Av. Larco 321-Miraflores, 15478952
+136, Nelson Boza Solis, bozasolis@gmail.com, Av. Alcanfores 435-Miraflores, 65487254
+137, Cielito Mercedes Calle Betancourt, mercedescalle@gmail.com, Av. Casimiro Ullo 231-Miraflores, 52146879 
+138, Isabel Florisa Caraza Villegas, flrocazara@gmail.com, Calle Tacna 312-Miraflores, 98475123
+139, Gizella Carrera Abanto, carrerabanto@gmail.com, Av. Roca y Boloña 153-Miraflores, 65481325
+140, Estalins Carrillo Segura, carrillosegura@terra.com.pe, Av. Ricardo Palma 547-Miraflores, 85075421
+141, Jorge Augusto Carrión Neira, augustojorge@hotmail.com, Jr. Santa Rosa 251-Barranco, 68451247 
+142, Guillermo Casapia Valdivia, casapiavaldivia@hotmail.com, Av. Lima 341-Barranco, 99075512  
+143, Zarita Chancos Mendoza, zarachancos@yahoo.com, Av. Jorge Chavez 452-Barranco, 44965721  
+144, Carlos Chirinos Lacotera, chirinos@yahoo.es, Jiron Talana 121-Barranco, 40125574
+145, Doris Cores Moreno, doritacores@gmail.com, Jr. Franklin D. Rossevelt 323-Barranco, 44398665 
+146, Maribel Corina Cortez Lozano, maribelcorina@terra.com, Av. Francisco Bolognesi 332-Barranco, 44128875
+147, Angel Crispin Quispe, crispinangel@gmail.com, Ca. Cara 110-Barranco, 99478522 
+148, Antonio de Loayza Conterno, toniloa@gmail.com, Jr. Batalla De Junin 221-Barranco, 14777847 
+149, Ana Maria Diaz Salinas, maritadiaz@terra.com.pe, Jr. Arica 422-Barranco, 00947854
+150, Antonio Dueñas Aristasabal, dueñasaristal@gmail.com, Av. Mariano Pasto Sevilla 345-Chorrillos, 09755421
