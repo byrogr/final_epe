@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'referido/index'
+
   get 'ventas/index'
 
   # Rutas para mantenimiento clientes

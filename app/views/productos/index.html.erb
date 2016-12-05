@@ -20,6 +20,7 @@
                                 <th>Descripci&oacute;n</th>
                                 <th>Precio</th>
                                 <th>Stock</th>
+                                <th>Acciones</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -29,6 +30,11 @@
                                 <td><%= @productos[i][1] %></td>
                                 <td>S/. <%= @productos[i][2].to_f %></td>
                                 <td><%= @productos[i][3] %></td>
+                                <td>
+                                    <button class="btn btn-danger">
+                                        <i class="fa fa-trash"></i>
+                                    </button>
+                                </td>
                               </tr>
                           <% end %>
                         </tbody>
