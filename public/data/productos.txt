@@ -1,0 +1,40 @@
+111,Mouse Genius USB,4,10
+112,Teclado Micronic USB,5,10
+113,Placa Gigabyte Intel GA-Z77X-UD4H,240,10
+114,Mainboard Gigabyte Intel G1.Sniper,150,10
+115,Mainboard Gigabyte Intel GA-H77M-HD3,110,20
+116,Parlantes Creative 40rms 5.1,75,15
+117,Parlantes Logitech 20rms 2.1,25,15
+118,Estabilizador Forza 8Tomas,13,20
+119,UPS APC 2000VA,35,10
+120,Procesador Intel Ci7 6700,380,30
+121,Procesador Intel Ci5 6400,200,30
+122,Tarjeta de Video VGA 4G GTX1050TI GDDR5,600,10
+123,Tarjeta de Video VGA 6G GTX1060 OC GDDR5,750,10
+124,Case CoolerMaster modelo Scout,120,30
+125,Case CoolerMaster modelo 450,45,30
+126,Mouse Logitech Laser Nazcar 2500dpi,35,100
+127,Mouse Logitech Laser TopGear 5000dpi,65,100
+128,Multigrabador CD/DVD LG,19,100
+129,Multigrabador BlueRay LG,35
+130,Impresora multifuncional Epsom L120,100
+131,Case CoolerMaster modelo K360,58,10
+132,Case CoolerMaster modelo Advanced 690II,120,10
+133,Case Corsair SPEC-03,100,10
+134,Monitor led Benq DL2020 19.5',75,30
+135,Monitor led LG 20M47A 19.5',94,10
+136,Monitor ASUS MX259H FULL HD-IPS 25',230,10
+137,Monitor LG led 25UM58 UltraWide 25',216,20
+138,Mainboard Gigabyte Intel B85-HD3,84,50
+139,Mainboard Gigabyte AMD 970A-DS3P,88,50
+140,Mainboard Gigabyte AMD APU F2A88XM-D3H,76,50
+141,Mainboard MSI AMD 970 Gaming,104,50
+142,Mainboard Gigabyte AMD APU G1 SNIPER A88X,108,50
+143,Mainboard MSI AMD 970 Gaming,104,50
+144,Mainboard Gigabyte B85M-DS3H,77,50
+145,Kit Teclado/mouse Razer Abyssuss,53,10
+146,Teclado Razer DeathStalker Chroma,118,10
+147,Audífonos con micrófono Kingston HyperX Cloud Drone,40,40
+148,Auriculares Kingston Hyperx Cloud II,95,15
+149,Gamepad Logitech Wirreles F110,40,30
+150,Mouse CoolerMaster CMSTORM Xornet II 2500DPI,35,50

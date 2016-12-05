@@ -4,6 +4,7 @@ Rails.application.routes.draw do
 
   # Rutas para mantenimiento productos
   get 'productos/index'
+  post 'productos/add'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

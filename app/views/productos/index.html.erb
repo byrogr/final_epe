@@ -5,7 +5,7 @@
             <div class="panel-heading">
                 Listado de productos
                 <div class="pull-right">
-                	<button class="btn btn-primary btn-xs">
+                	<button class="btn btn-primary btn-xs" data-toggle="modal" data-target="#myModal">
                 		<i class="fa fa-plus-o"></i> Nuevo producto
                 	</button>
                 </div>
@@ -23,30 +23,21 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
-                                <td>1</td>
-                                <td>Mark</td>
-                                <td>Otto</td>
-                                <td>@mdo</td>
-                            </tr>
-                            <tr>
-                                <td>2</td>
-                                <td>Jacob</td>
-                                <td>Thornton</td>
-                                <td>@fat</td>
-                            </tr>
-                            <tr>
-                                <td>3</td>
-                                <td>Larry</td>
-                                <td>the Bird</td>
-                                <td>@twitter</td>
-                            </tr>
+                          <% for i in 0...@productos.size %>
+                              <tr>
+                                <td><%= @productos[i][0] %></td>
+                                <td><%= @productos[i][1] %></td>
+                                <td>S/. <%= @productos[i][2].to_f %></td>
+                                <td><%= @productos[i][3] %></td>
+                              </tr>
+                          <% end %>
                         </tbody>
                     </table>
                 </div>
                 <!-- /.table-responsive -->
             </div>
             <!-- /.panel-body -->
-        </div>
+    </div>
+    <%= render 'productos/forms/form' %>
 	</div>
 </div>
